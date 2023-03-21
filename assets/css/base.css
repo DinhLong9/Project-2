@@ -12,6 +12,10 @@
   --color-btn-hover: #8261ee;
   --color-btn: #FF589E;
 }
+::selection {
+  background-color: #FF589E;
+  color: #fff;
+}
 a {
   color: #fff;
 }
